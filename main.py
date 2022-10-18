@@ -10,7 +10,7 @@ e = '\033[0m'
 os.system("clear")
 print(f'''
 
-{lb}₹₹\   ₹₹\ ₹₹₹₹₹₹₹\ ₹₹₹₹₹₹\{e}       {o}₹₹\  {lg}₹₹\{e}             | Author:  HackerSM9
+{lb}₹₹\   ₹₹\ ₹₹₹₹₹₹₹\ ₹₹₹₹₹₹\{e}       {o}₹₹\  {lg}₹₹\{e}            | Author:  HackerSM9
 {lb}₹₹ |  ₹₹ |₹₹  __₹₹\\_₹₹  _|{e}       {o}\₹₹\ {lg}\₹₹\{e}           | Origin:  Made in INDIA
 {lb}₹₹ |  ₹₹ |₹₹ |  ₹₹ | ₹₹ |{e}         {o}\₹₹\ {lg}\₹₹\{e}          | Version: 5.5.0
 {lb}₹₹ |  ₹₹ |₹₹₹₹₹₹₹  | ₹₹ |{e}          {o}\₹₹\ \{lg}₹₹\{e}         | G-DEV:   HackerSM9
