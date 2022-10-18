@@ -14,6 +14,6 @@ pa = input(f"{q} Enter UPI ID: ")
 pn = input(f"{q} Enter Name: ")
 am = input(f"{q} Enter Amount: ")
 
-print(f"\nUPI is Ready: {v}UPI://pay?pa={0}&pn={1}&am{2}".format(pa,pn,am)) 
+print(f"\n{w}{g}UPI is Ready: {v}UPI://pay?pa={0}&pn={1}&am{2}".format(pa,pn,am)) 
 
 open = input (f"{q} Do you Want to Open UPI link [ y/n ]: ")     
