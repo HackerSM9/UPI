@@ -13,7 +13,7 @@ print(f'''
 {lb}₹₹\   ₹₹\ ₹₹₹₹₹₹₹\ ₹₹₹₹₹₹\{e}       {o}₹₹\  {lg}₹₹\{e}            | Author:  HackerSM9
 {lb}₹₹ |  ₹₹ |₹₹  __₹₹\\_₹₹  _|{e}       {o}\₹₹\ {lg}\₹₹\{e}           | Origin:  Made in INDIA
 {lb}₹₹ |  ₹₹ |₹₹ |  ₹₹ | ₹₹ |{e}         {o}\₹₹\ {lg}\₹₹\{e}          | Version: 5.5.0
-{lb}₹₹ |  ₹₹ |₹₹₹₹₹₹₹  | ₹₹ |{e}          {o}\₹₹\ \{lg}₹₹\{e}         | G-DEV:   HackerSM9
+{lb}₹₹ |  ₹₹ |₹₹₹₹₹₹₹  | ₹₹ |{e}          {o}\₹₹\ {lg}\₹₹\{e}         | G-DEV:   HackerSM9
 {lb}₹₹ |  ₹₹ |₹₹  ____/  ₹₹ |{e}          {o}₹₹  |{lg}₹₹  |{e}        | Twitter: HackerSM9_
 {lb}₹₹ |  ₹₹ |₹₹ |       ₹₹ |{e}         {o}₹₹  /{lg}₹₹  /{e}         
 {lb}\₹₹₹₹₹₹  |₹₹ |     ₹₹₹₹₹₹\{e}        {o}₹₹ /{lg}₹₹  /{e}  
