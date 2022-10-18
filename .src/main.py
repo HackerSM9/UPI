@@ -4,9 +4,10 @@ r = '\033[1;31m'
 y = '\033[1;33m'
 v = '\033[1;34m'
 e = '\033[0m'
+q = y+'['+r+'?'+y+']'+e
 
 print("\n")
-pa = input("[!] Enter UPI ID: ")
+pa = input("[?] Enter UPI ID: ")
 pn = input("[?] Enter Name: ")
 am = input("[?] Enter Amount: ")
 
