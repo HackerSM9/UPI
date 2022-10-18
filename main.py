@@ -8,6 +8,15 @@ e = '\033[0m'
 os.system("clear")
 print('''
 
+$$\   $$\ $$$$$$$\ $$$$$$\       $$\  $$\            | Author:  HackerSM9
+$$ |  $$ |$$  __$$\\_$$  _|      \$$\ \$$\           | Origin:  Made in INDIA
+$$ |  $$ |$$ |  $$ | $$ |         \$$\ \$$\          | Version: 5.5.0
+$$ |  $$ |$$$$$$$  | $$ |          \$$\ \$$\         | G-DEV:   HackerSM9
+$$ |  $$ |$$  ____/  $$ |          $$  |$$  |        | Twitter: HackerSM9_
+$$ |  $$ |$$ |       $$ |         $$  /$$  /         |
+\$$$$$$  |$$ |     $$$$$$\       $$  /$$  /  
+ \______/ \__|     \______|      \__/ \__/   
+                                             
 ''')
 print(g+"1) Generate UPI\n2) More Tools\n3) About\n4) Upgrade\n"+e+r+"0) EXIT\n\n"+e)
 url = int(input("\033[1;36m\n >> Enter your Choice: \033[0m"))
